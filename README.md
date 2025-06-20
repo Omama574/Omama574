@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Omama
-- 🌱 I’m currently learning Web development 
-
+-
 
 <!---
 Omama574/Omama574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
